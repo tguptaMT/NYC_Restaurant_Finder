@@ -7,7 +7,8 @@ __Author:__ Tarun Gupta
 __Company:__ Insight Data Science
 __Location:__ Toronto
 
-* _This project was part of the weekend Data Science Challenge at the Insight Data Science in Toronto, ON._
+* _This project was part of the weekend Data Science Challenge at the Insight Data Science in Toronto, ON_*  
+__Total Time spent: 4 hours__
 
 
 ![TOPicks Pipeline](img/NYC_RF-intro.png) 
